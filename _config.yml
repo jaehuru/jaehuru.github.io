@@ -116,7 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Game_dev"
   location         : "Korea"
-  email            : "kimbs0516@gamil.com"
+  email            : "kimbs0516@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
